@@ -1,11 +1,20 @@
+jcsxcbh
+Aiyy
+p
+yy
+p
+
 
 
-public static void main
-{
-	system.U
 
+B
+B
+A 
+A
+A
+A
+B
+B
 
-
-
-     	system.out.println("my first ")
-}
+C
+cjkzhxkczci
